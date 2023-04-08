@@ -1,6 +1,22 @@
-# 💫 About Me:
-Hello! My name is Basir and I'm a full-stack development<br> student currently enrolled in a Microverse remote software<br> development school that uses pair programming and <br>real-world projects to teach development. <br>
+<img align="center" alt="Coding" width="1500" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
+<h1 align="left">Hi 👋, I'm Basir Elham</h1>
+<p align="left" width="500">I'm a full-stack development<br> student currently enrolled in a Microverse remote software<br> development school that uses pair programming and <br>real-world projects to teach development.</p> 
 
+
+
+- 🌱 I’m currently learning **Full Stack Developer**
+
+- 👨‍💻 All of my projects are available at [Basir Elham](https://github.com/Elhambasir?tab=repositories)
+
+- 📫 How to reach me **elham1378basir@gmail.com**
+
+- ⚡ Fun fact **I Think I am Funny**
+
+- 💬 Ask me about **Html, Css, Javascript**
+
+
+
+<img align="right" alt="Coding" width="300" height= "170" src="https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/basir.muhammadi.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/basir.muhammadi.3?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/basir-ahmadi-8aba89263) 
