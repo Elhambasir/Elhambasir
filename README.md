@@ -1,10 +1,10 @@
 <img align="center" alt="Coding" width="1500" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
 <h1 align="left">Hi 👋, I'm Basir Elham</h1>
-<p align="left" width="500">I'm a full-stack development<br> student currently enrolled in a Microverse remote software<br> development school that uses pair programming and <br>real-world projects to teach development.</p> 
+<p align="left" width="500">I'm a full-stack developer<br> currently enrolled in a Microverse remote software<br> development school that uses pair programming and <br>real-world projects to teach development.</p> 
 
 
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning and improving my related skills to **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [Basir Elham](https://github.com/Elhambasir?tab=repositories)
 
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I Think I am Funny**
 
-- 💬 Ask me about **Html, Css, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, Ruby, Ruby on Rails, React and Redux**
 
 
 
